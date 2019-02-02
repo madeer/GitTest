@@ -3,7 +3,7 @@ package cn.tedu.test;
 
 public class Happy {
 	public static void main(String[] args) {
-		
+
 		System.out.println("b");
 		System.out.println("eclipse,hahahahahah");
 		System.out.println("abc");
@@ -15,6 +15,21 @@ public class Happy {
 		System.out.println("idea,hehehehehehe");
 		System.out.println("idea,hehehehehehe");
 		System.out.println("idea,hehehehehehe");
+		System.out.println("测试ideagit使用");
+		System.out.println("测试ideagit使用");
+
+		System.out.println("测试ideagit使用");
+
+		System.out.println("测试ideagit使用");
+
+		System.out.println("测试ideagit使用");
+
+		
+		
+		
+		System.out.println("测试ideagit使用");
+
+		System.out.println("测试ideagit使用");
 
 
 	}
