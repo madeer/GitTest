@@ -58,4 +58,31 @@ public class Happy {
         System.out.println("eeeeeeeeeeeeeeeeeee");
         System.out.println("eeeeeeeeeeeeeeeeeee");
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public void testhaha1(){
+
+
+
+
+	    
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+    }
 }
