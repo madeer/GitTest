@@ -1,3 +1,4 @@
+
 package cn.tedu.test;
 
 public class Happy {
@@ -5,5 +6,8 @@ public class Happy {
 		
 		System.out.println("b");
 		System.out.println("eclipse,hahahahahah");
+		System.out.println("abc");
+		System.out.println("b");
+		System.out.println("idea,hehehehehehe");
 	}
 }
