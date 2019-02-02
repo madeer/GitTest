@@ -31,6 +31,14 @@ public class Happy {
 
 		System.out.println("≤‚ ‘ideagit π”√");
 
+        System.out.println("idea git");
+        System.out.println("idea git");
+        System.out.println("idea git");
+        System.out.println("idea git");
+        System.out.println("idea git");
+        System.out.println("idea git");
+        System.out.println("idea git");
+        System.out.println("idea git");
 
 	}
 	public void testgit(){
@@ -40,4 +48,14 @@ public class Happy {
 		System.out.println("fffffffffffffffffffffffff");
 		System.out.println("fffffffffffffffffffffffff");
 	}
+
+	public void testhaha(){
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+        System.out.println("eeeeeeeeeeeeeeeeeee");
+    }
 }
