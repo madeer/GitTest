@@ -9,6 +9,13 @@ public class Happy {
 		System.out.println("abc");
 		System.out.println("b");
 		System.out.println("idea,hehehehehehe");
-		
+		System.out.println("idea,hehehehehehe");
+		System.out.println("idea,hehehehehehe");
+		System.out.println("idea,hehehehehehe");
+		System.out.println("idea,hehehehehehe");
+		System.out.println("idea,hehehehehehe");
+		System.out.println("idea,hehehehehehe");
+
+
 	}
 }
